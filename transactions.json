@@ -1,0 +1,14 @@
+[
+    {
+        "license_plate": "AAA-1234",
+        "entry_time": "2025-01-29T13:41:42.999141",
+        "exit_time": "2025-01-29T13:42:18.502537",
+        "cost": 2
+    },
+    {
+        "license_plate": "ABD-1235",
+        "entry_time": "2025-01-29T13:41:51.165287",
+        "exit_time": null,
+        "cost": 50
+    }
+]
